@@ -32,3 +32,4 @@ Code examples for quick quick access
 1. [Tags separated by comma](https://github.com/lemfaer/symfony-blog/blob/master/src/Repository/TagRepository.php)
 2. [XPath img, p](https://github.com/lemfaer/symfony-blog/blob/master/src/Repository/ArticleRepository.php)
 3. [Partial function](https://github.com/lemfaer/inspire/blob/master/function-partial.php)
+4. [JSON RPC](https://github.com/lemfaer/inspire/blob/master/json-rpc.php)
