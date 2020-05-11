@@ -10,7 +10,7 @@ Code examples for quick quick access
 1. Symfony 4: [config](https://github.com/lemfaer/symfony-blog/blob/master/config/services.php), [listener](https://github.com/lemfaer/symfony-blog/blob/master/src/Listener/ResponseListener.php)
 
 ## Server
-1. nginx: [basic](https://github.com/lemfaer/symfony-blog/blob/master/nginx.conf)
+1. nginx: [basic](https://github.com/lemfaer/symfony-blog/blob/master/nginx.conf), [https](https://github.com/lemfaer/inspire/blob/master/https-nginx.conf), [generator](https://github.com/digitalocean/nginxconfig.io)
 
 ## Routers
 1. [Symfony 4 YAML](https://github.com/lemfaer/symfony-blog/blob/master/config/routes.yaml)
